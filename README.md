@@ -123,35 +123,19 @@ No frameworks or external libraries required.
 
 ---
 
-# 📂 Project Structure
-
-```text
-📁 Chef-Recipe-Chaos
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images
-│   ├── sounds
-│   └── icons
-└── README.md
-```
-
----
 
 # 🚀 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chefs-recipe-chaos.git
+git clone https://github.com/faqehanoor/Summer-Camp-Temperature-Topic-Game-FN.git
 ```
 
 Open the project:
 
 ```bash
-cd chefs-recipe-chaos
+cd chefs-chaos
 ```
 
 Run:
